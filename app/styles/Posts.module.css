@@ -1,0 +1,12 @@
+.post {
+  margin-top: 12px;
+}
+
+.title {
+  margin-bottom: 12px;
+  color: #8a2be2;
+}
+
+.title:first-child {
+  margin-top: 16px;
+}
